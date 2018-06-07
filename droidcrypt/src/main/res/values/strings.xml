@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DroidCrypt</string>
+    <string name="droidcrypt_fail_decrypt">Fail to decrypt</string>
+    <string name="droidcrypt_fail_encrypt">Failed to encrypt</string>
+    <string name="droidcrypt_sharedpref">droidcryptSharedPref</string>
+    <string name="droidcrypt_text_in_string">droidcryptSharedPrefTextInString</string>
+    <string name="droidcrypt_text_in_bytearray">droidcryptSharedPrefTextInByteArray</string>
+</resources>
