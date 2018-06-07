@@ -7,9 +7,7 @@ import id.pahlevikun.droidcrypt.util.StoringManager
 import java.security.MessageDigest
 import javax.crypto.Cipher
 import javax.crypto.spec.SecretKeySpec
-import android.R.attr.password
-
-
+import id.pahlevikun.droidcrypt.model.Data
 
 
 class DroidCrypt(private val context: Context) {

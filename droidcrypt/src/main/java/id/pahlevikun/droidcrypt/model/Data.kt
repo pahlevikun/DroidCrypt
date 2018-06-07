@@ -1,4 +1,4 @@
-package id.pahlevikun.droidcrypt
+package id.pahlevikun.droidcrypt.model
 
 import java.util.*
 

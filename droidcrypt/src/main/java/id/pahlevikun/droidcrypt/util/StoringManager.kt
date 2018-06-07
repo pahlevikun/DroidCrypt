@@ -2,7 +2,7 @@ package id.pahlevikun.droidcrypt.util
 
 import android.content.Context
 import android.content.SharedPreferences
-import id.pahlevikun.droidcrypt.Data
+import id.pahlevikun.droidcrypt.model.Data
 import id.pahlevikun.droidcrypt.R
 import java.util.*
 
