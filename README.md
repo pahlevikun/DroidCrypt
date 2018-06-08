@@ -1,3 +1,5 @@
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-DroidCrypt-green.svg?style=flat )]( https://android-arsenal.com/details/1/6986 )
+
 # DroidCrypt
 A simple Android Library. Very easy for use this Android library for performing encryption to String with AES encryption, it can used for save to SharedPreferences too.
 
