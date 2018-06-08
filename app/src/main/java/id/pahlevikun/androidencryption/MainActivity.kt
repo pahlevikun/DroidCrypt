@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
         try {
             val encrypted = DroidCrypt(this).startEncryptWithoutBase64("@12d", Algorithm.MD5.type, "MAKAN")
             Logger.d("HASIL ENCRYPT", MainActivity::class.java.simpleName, encrypted.textInString)
+            print("adsf")
             val decrypted = DroidCrypt(this).startDecryptWithoutBase64("@12d", Algorithm.MD5.type, encrypted)
             Logger.d("HASIL DECRYPT", MainActivity::class.java.simpleName, decrypted.textInString)
 
